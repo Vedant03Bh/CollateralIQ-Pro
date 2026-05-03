@@ -1,0 +1,8 @@
+streamlit
+requests
+folium
+streamlit-folium
+pandas
+numpy
+google-generativeai
+beautifulsoup4
