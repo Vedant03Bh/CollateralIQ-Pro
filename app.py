@@ -51,7 +51,7 @@ st.set_page_config(
 # 2. API KEYS & CONFIGURATION
 # ─────────────────────────────────────────────
 GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"  # Replace with your actual Gemini API key
-OPENCAGE_API_KEY = "1d90c0fdc4a54c46865277e715f4129c"
+OPENCAGE_API_KEY ="YOUR_GEMINI_API_KEY"
 
 if GEMINI_API_KEY != "YOUR_GEMINI_API_KEY":
     genai.configure(api_key=GEMINI_API_KEY)
